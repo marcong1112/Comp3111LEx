@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f802a25-e723-4a1d-ade8-f5cfe3260b18" name="Changes" comment="This is an initial commit for Comp3111LEx Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0f802a25-e723-4a1d-ade8-f5cfe3260b18" name="Changes" comment="Add 2 print lines as report heading">
       <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694269362562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add 2 print lines as report heading">
+      <option name="closed" value="true" />
+      <created>1694358029773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694358029773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is an initial commit for Comp3111LEx Project" />
+    <MESSAGE value="Add 2 print lines as report heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
   </component>
 </project>

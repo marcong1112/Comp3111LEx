@@ -8,6 +8,7 @@ public class mainApp1 {
         int b = 2;
         int n = 11;
         System.out.println("Student Name: Ng Cheuk Hei Marco");
+        System.out.println("Student ID: 20689307");
 
         System.out.println("Welcome to Scientific Calculator");
         System.out.println("Program started ...");

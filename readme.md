@@ -5,4 +5,4 @@ If you see the screenshot inserted in the following, it means I have successfull
 Student Name: Ng Cheuk Hei Marco
 Student ID: 20689307
 
-![](/Users/marcong/IdeaProjects/Comp3111LEx/src/main/resources/COMP3111_Lab1_screenshot.png)
+COMP3111lab1screenshot.png

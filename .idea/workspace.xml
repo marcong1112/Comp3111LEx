@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f802a25-e723-4a1d-ade8-f5cfe3260b18" name="Changes" comment="3rd attempt to change directories and debug inserted image.">
+    <list default="true" id="0f802a25-e723-4a1d-ade8-f5cfe3260b18" name="Changes" comment="4th attempt to change directories and debug inserted image.">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Users/marcong/IdeaProjects/Comp3111LEx/src/main/java/Lab1/COMP3111lab1screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/COMP3111lab1screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Lab1/resources/COMP3111lab1screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/resources/COMP3111lab1screenshot.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -57,11 +61,11 @@
       <recent name="$PROJECT_DIR$/src/main/java/Lab1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/Users/marcong/IdeaProjects/Comp3111LEx/src/main/java/Lab1" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/Lab1" />
-      <recent name="$PROJECT_DIR$/screenshots resources" />
-      <recent name="$PROJECT_DIR$/Resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/resources/Lab1/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/Users/marcong/IdeaProjects/Comp3111LEx/src/main/java/Lab1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -121,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694369026903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3rd attempt to change directories and debug inserted image.">
+      <option name="closed" value="true" />
+      <created>1694370255325</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694370255325</updated>
+    </task>
+    <task id="LOCAL-00008" summary="4th attempt to change directories and debug inserted image.">
+      <option name="closed" value="true" />
+      <created>1694371008596</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694371008596</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +163,8 @@
     <MESSAGE value="Attempt to add image to readme" />
     <MESSAGE value="2nd attempt to change directories and debug inserted image." />
     <MESSAGE value="3rd attempt to change directories and debug inserted image." />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd attempt to change directories and debug inserted image." />
+    <MESSAGE value="4th attempt to change directories and debug inserted image." />
+    <option name="LAST_COMMIT_MESSAGE" value="4th attempt to change directories and debug inserted image." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
